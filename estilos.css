@@ -1,0 +1,11 @@
+.fondo{
+	padding: 0px;
+	width: 100%
+}
+.fondo img{
+	display: block;
+	height: auto;
+	width: 70%;
+	margin: 0 auto;
+	max-height: 800px;
+}
